@@ -6,7 +6,7 @@
 </head>
 <body>
 <h1>Hello world</h1>
-<?php
+<?
 $hello="hello world";
 $num=5;
 echo "<p>test</p>";
